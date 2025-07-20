@@ -12,14 +12,17 @@ Walter Hugo Arboleda Mazo
 3 (remota)
 
 ### Actividad
-Entrega: realizar en Java o Python los ejercicios y entregar un archivo PDF con portada, código fuente de cada ejercicio, imagen de la ejecución de cada ejercicio, diagrama de clases de cada ejercicio y la url de cada ejercicio en Github.
+Realizar un aplicación de interfaz gráfica con los botones: Create, read, update y delete
 
 ### Desarollo
-El lenguaje de programación que estaré utilizando es Python, en lo personal se me hace mas facil, ya que lo he utilizado un poco.
+El lenguaje de programación que estuve utilizando es Python.
+Como el código del ejercicio es extensos decidí solo poner el diagrama de clase, el caso de uso y la captura de la ejecución, aclarando en el GitHub esta el codigo de dicho ejercicio.
+
+Código en Github: 
+
+Código en Replit: 
+
 Aclaró que la plataforma que utilizo para programar en Python es Replit (https://replit.com/@replit/Python#main.py) 
 
-Ejercicios en GitHub: 
-
-Adicionalmente también, anexe los códigos en Replit: 
 ##
 ## Gracias
